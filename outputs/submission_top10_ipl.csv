@@ -1,0 +1,21 @@
+side,avail_rank,player,nat,overall_rank,hp_balls,p_top10,status,note
+bat,1.0,Jonny Bairstow,England,6,133.0,0.4766666666666667,available,
+bat,2.0,Vijay Shankar,India,13,100.0,0.3366666666666666,available,
+bat,3.0,Deepak Hooda,India,16,170.0,0.17,available,
+bat,4.0,Glenn Maxwell,Australia,23,214.0,0.09,flag,skipped IPL 2026
+bat,5.0,Nitish Rana,India,29,219.0,0.0766666666666666,available,released 17 Nov by Delhi Capitals
+bat,6.0,Devon Conway,New Zealand,35,274.0,0.0166666666666666,available,
+bat,7.0,M Shahrukh Khan,India,48,123.0,0.0366666666666666,available,released 17 Nov by Gujarat Titans
+bat,8.0,Shimron Hetmyer,West Indies,50,221.0,0.01,available,released 17 Nov by Rajasthan Royals
+bat,9.0,Moeen Ali,England,51,70.0,0.0,flag,skipped IPL 2026
+bat,10.0,Ajinkya Rahane,India,59,189.0,0.0,available,released 17 Nov by Kolkata Knight Riders
+bowl,1.0,Maheesh Theekshana,Sri Lanka,5,256.0,0.4833333333333333,available,
+bowl,2.0,Matheesha Pathirana,Sri Lanka,10,159.0,0.39,available,released 17 Nov by Kolkata Knight Riders
+bowl,3.0,Wanindu Hasaranga,Sri Lanka,23,245.0,0.1266666666666666,available,released 17 Nov by Lucknow Super Giants
+bowl,4.0,Glenn Maxwell,Australia,27,86.0,0.1766666666666666,flag,skipped IPL 2026
+bowl,5.0,Kumar Kartikeya Singh,India,28,95.0,0.05,available,
+bowl,6.0,Trent Boult,New Zealand,30,311.0,0.06,available,released 17 Nov by Mumbai Indians
+bowl,7.0,Ishant Sharma,India,52,82.0,0.0033333333333333,available,released 17 Nov by Gujarat Titans
+bowl,8.0,Akash Madhwal,India,54,141.0,0.0033333333333333,available,released 17 Nov by Chennai Super Kings
+bowl,9.0,Karn Sharma,India,58,102.0,0.0,available,
+bowl,10.0,Gerald Coetzee,South Africa,59,61.0,0.0266666666666666,available,released 17 Nov by Sunrisers Hyderabad

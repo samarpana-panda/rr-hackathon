@@ -1,0 +1,43 @@
+variant,list,top10_overlap,spearman,avail_top10_overlap,n_both,n_base,n_var
+Before NRR (17 Nov final),ipl bat,8,0.949,10,87,88,88
+Before NRR (17 Nov final),ipl bowl,8,0.964,8,102,105,102
+Before NRR (17 Nov final),intl bat,10,0.988,9,121,121,121
+Before NRR (17 Nov final),intl bowl,9,0.983,10,130,130,130
+Before NRR (17 Nov final),alevel bat,10,0.997,10,21,21,21
+Before NRR (17 Nov final),alevel bowl,10,0.994,10,31,31,31
+Consequence/difficulty 55/45,ipl bat,8,0.92,10,87,88,91
+Consequence/difficulty 55/45,ipl bowl,8,0.964,10,104,105,105
+Consequence/difficulty 55/45,intl bat,7,0.894,9,119,121,121
+Consequence/difficulty 55/45,intl bowl,6,0.94,8,128,130,131
+Consequence/difficulty 55/45,alevel bat,7,0.886,8,19,21,20
+Consequence/difficulty 55/45,alevel bowl,8,0.93,9,29,31,30
+Consequence/difficulty 75/25,ipl bat,9,0.94,10,86,88,87
+Consequence/difficulty 75/25,ipl bowl,8,0.97,9,103,105,105
+Consequence/difficulty 75/25,intl bat,8,0.915,8,118,121,122
+Consequence/difficulty 75/25,intl bowl,6,0.957,9,126,130,131
+Consequence/difficulty 75/25,alevel bat,8,0.886,9,18,21,19
+Consequence/difficulty 75/25,alevel bowl,9,0.966,8,28,31,29
+HP cut-off top 20%,ipl bat,7,0.896,9,81,88,81
+HP cut-off top 20%,ipl bowl,7,0.951,8,91,105,91
+HP cut-off top 20%,intl bat,5,0.917,8,96,121,96
+HP cut-off top 20%,intl bowl,7,0.939,7,108,130,108
+HP cut-off top 20%,alevel bat,7,0.793,8,14,21,14
+HP cut-off top 20%,alevel bowl,7,0.971,6,20,31,20
+HP cut-off top 30%,ipl bat,9,0.886,9,88,88,94
+HP cut-off top 30%,ipl bowl,7,0.932,9,105,105,115
+HP cut-off top 30%,intl bat,6,0.915,9,121,121,141
+HP cut-off top 30%,intl bowl,6,0.935,8,130,130,152
+HP cut-off top 30%,alevel bat,7,0.821,7,21,21,32
+HP cut-off top 30%,alevel bowl,8,0.945,7,31,31,39
+Stakes power 0.25,ipl bat,9,0.93,10,86,88,89
+Stakes power 0.25,ipl bowl,8,0.952,9,100,105,102
+Stakes power 0.25,intl bat,7,0.943,8,120,121,123
+Stakes power 0.25,intl bowl,9,0.968,8,127,130,128
+Stakes power 0.25,alevel bat,6,0.924,6,17,21,25
+Stakes power 0.25,alevel bowl,9,0.96,9,28,31,29
+Stakes power 0.5,ipl bat,8,0.921,9,86,88,87
+Stakes power 0.5,ipl bowl,8,0.953,9,104,105,106
+Stakes power 0.5,intl bat,6,0.92,8,118,121,119
+Stakes power 0.5,intl bowl,8,0.944,9,128,130,131
+Stakes power 0.5,alevel bat,8,0.812,10,19,21,20
+Stakes power 0.5,alevel bowl,9,0.969,9,29,31,31

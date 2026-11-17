@@ -1,0 +1,205 @@
+{
+ "_as_of": "2026-11-17 19:55 IST",
+ "_sources": "ESPNcricinfo live blog (via search snippets), auction-tracker-ten.vercel.app, SportsAdda, Yahoo/The Cricket News, ipl2027in.com, Outlook India, Business Standard",
+ "released": {
+  "Chennai Super Kings": [
+   "Prashant Veer",
+   "Matt Henry",
+   "Matthew Short",
+   "Zakary Foulkes",
+   "Dian Forrester",
+   "Aman Khan",
+   "Akash Madhwal",
+   "Macneil Noronha",
+   "Kuldip Yadav"
+  ],
+  "Sunrisers Hyderabad": [
+   "Travis Head",
+   "Gerald Coetzee",
+   "David Payne",
+   "Jaydev Unadkat",
+   "Shivam Mavi",
+   "Kamindu Mendis",
+   "Dilshan Madushanka",
+   "Omkar Tarmale",
+   "Amit Kumar"
+  ],
+  "Punjab Kings": [
+   "Nehal Wadhera",
+   "Mitchell Owen",
+   "Lockie Ferguson",
+   "Pyla Avinash",
+   "Praveen Dubey",
+   "Vishal Nishad"
+  ],
+  "Delhi Capitals": [
+   "Mitchell Starc",
+   "Nitish Rana",
+   "Abishek Porel",
+   "Pathum Nissanka",
+   "Ben Duckett",
+   "Karun Nair",
+   "Sahil Parakh",
+   "Dushmantha Chameera",
+   "Rehan Ahmed",
+   "Ajay Mandal"
+  ],
+  "Mumbai Indians": [
+   "Trent Boult",
+   "Deepak Chahar",
+   "Allah Ghazanfar",
+   "Atharva Ankolekar",
+   "Danish Malewar",
+   "Mohd Izhar",
+   "Keshav Maharaj",
+   "Mayank Rawat"
+  ],
+  "Kolkata Knight Riders": [
+   "Matheesha Pathirana",
+   "Rachin Ravindra",
+   "Mustafizur Rahman",
+   "Ajinkya Rahane",
+   "Akash Deep",
+   "Blessing Muzarabani",
+   "Daksh Kamra",
+   "Luvnith Sisodia",
+   "Navdeep Saini",
+   "Rahul Tripathi",
+   "Umran Malik",
+   "Tejasvi Dahiya"
+  ],
+  "Lucknow Super Giants": [
+   "Anrich Nortje",
+   "Wanindu Hasaranga",
+   "Matthew Breetzke",
+   "George Linde",
+   "Naman Tiwari",
+   "Arshin Kulkarni",
+   "Avesh Khan"
+  ],
+  "Rajasthan Royals": [
+   "Tushar Deshpande",
+   "Kwena Maphaka",
+   "Adam Milne",
+   "Kuldeep Sen",
+   "Yudhvir Singh",
+   "Shimron Hetmyer",
+   "Ravi Singh",
+   "Vignesh Puthur"
+  ],
+  "Royal Challengers Bengaluru": [
+   "Jacob Bethell",
+   "Richard Gleeson",
+   "Mangesh Yadav",
+   "Vihaan Malhotra",
+   "Satvik Deswal"
+  ],
+  "Gujarat Titans": [
+   "Ishant Sharma",
+   "Kulwant Khejroliya",
+   "Connor Esterhuizen",
+   "Luke Wood",
+   "M Shahrukh Khan"
+  ]
+ },
+ "pending_teams": [],
+ "partial_teams": [],
+ "opted_out_2027": [
+  "Travis Head",
+  "Mitchell Starc"
+ ],
+ "retired_ipl": [
+  "Mahendra Singh Dhoni",
+  "Andre Russell",
+  "Ravichandran Ashwin",
+  "Mohit Sharma",
+  "Piyush Chawla",
+  "Dwayne Bravo",
+  "Ambati Rayudu",
+  "Shikhar Dhawan",
+  "Dinesh Karthik",
+  "Wriddhiman Saha",
+  "Amit Mishra"
+ ],
+ "banned": [
+  "Harry Brook"
+ ],
+ "skipped_2026_flag": [
+  "Glenn Maxwell",
+  "Moeen Ali",
+  "Faf du Plessis"
+ ],
+ "trades_2027": [
+  [
+   "Hardik Pandya",
+   "MI",
+   "PBKS"
+  ],
+  [
+   "Arshdeep Singh",
+   "PBKS",
+   "MI"
+  ],
+  [
+   "Rishabh Pant",
+   "LSG",
+   "DC"
+  ],
+  [
+   "Kuldeep Yadav",
+   "DC",
+   "LSG"
+  ],
+  [
+   "T Natarajan",
+   "DC",
+   "SRH"
+  ],
+  [
+   "Zeeshan Ansari",
+   "SRH",
+   "DC"
+  ],
+  [
+   "Liam Livingstone",
+   "SRH",
+   "CSK"
+  ],
+  [
+   "Jack Edwards",
+   "SRH",
+   "CSK"
+  ],
+  [
+   "Khaleel Ahmed",
+   "CSK",
+   "SRH"
+  ],
+  [
+   "Nathan Ellis",
+   "CSK",
+   "SRH"
+  ],
+  [
+   "Harshal Patel",
+   "SRH",
+   "GT"
+  ],
+  [
+   "Mohammed Shami",
+   "LSG",
+   "RR"
+  ],
+  [
+   "M Siddharth",
+   "LSG",
+   "RR"
+  ],
+  [
+   "Sam Curran",
+   "RR",
+   "LSG"
+  ]
+ ],
+ "conflicts": "KKR: Yahoo/The Cricket News lists Rahane, Akash Deep, Tripathi, Umran Malik, Tejasvi Singh, Daksh Kamra as retained; CricToday lists them released. Using CricToday (later, full ten-team list)."
+}
